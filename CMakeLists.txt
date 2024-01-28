@@ -29,6 +29,7 @@ if(${QT_VERSION_MAJOR} GREATER_EQUAL 6)
         user/splitdesktop.h user/splitdesktop.cpp
 
         user/paintwidget.h user/paintwidget.cpp user/paintwidget.ui
+        README.md
 
     )
 # Define target properties for Android with Qt 6 as:
